@@ -1,0 +1,7 @@
+C:\Users\Admin\RiderProjects\HocC#\CSharp_Ex\CSharp_Ex\bin\Debug\CSharp_Ex.exe
+C:\Users\Admin\RiderProjects\HocC#\CSharp_Ex\CSharp_Ex\bin\Debug\CSharp_Ex.pdb
+C:\Users\Admin\RiderProjects\HocC#\CSharp_Ex\CSharp_Ex\obj\Debug\CSharp_Ex.csproj.AssemblyReference.cache
+C:\Users\Admin\RiderProjects\HocC#\CSharp_Ex\CSharp_Ex\obj\Debug\CSharp_Ex.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\RiderProjects\HocC#\CSharp_Ex\CSharp_Ex\obj\Debug\CSharp_Ex.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\HocC#\CSharp_Ex\CSharp_Ex\obj\Debug\CSharp_Ex.exe
+C:\Users\Admin\RiderProjects\HocC#\CSharp_Ex\CSharp_Ex\obj\Debug\CSharp_Ex.pdb

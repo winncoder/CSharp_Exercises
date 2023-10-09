@@ -39,6 +39,9 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="Array\CopyArray.cs" />
+        <Compile Include="Array\SplitArray.cs" />
+        <Compile Include="Array\SumElements.cs" />
         <Compile Include="Basic\Ex1.cs" />
         <Compile Include="Basic\Ex10.cs" />
         <Compile Include="Basic\Ex11.cs" />
